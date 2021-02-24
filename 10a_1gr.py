@@ -2,22 +2,22 @@
 
 2 Berga Laura
 
-3 Fiïimonovs Eldars
+3 FiÃ¯imonovs Eldars
 
-4 Gaiğute Ksenija
+4 GaiÃ°ute Ksenija
 
 5 Gorniks Arturs
 
-6 Guşonoka Jevgeòija
+6 GuÃ¾onoka JevgeÃ²ija
+print(23-3)
+7 IsaÃ¨enko Aleksandrs
 
-7 Isaèenko Aleksandrs
+8 KomaÃ°ilo Dmitrijs
 
-8 Komağilo Dmitrijs
-
-9 Lukjanèikova Darja
+9 LukjanÃ¨ikova Darja
 
 10 Minalto Jana
 
 11 Obrazcova Marija
 
-12 Ğvacka Marija
+12 Ãvacka Marija
